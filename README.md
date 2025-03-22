@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school:  I'm a third-year student in the Faculty of `Information Systems Engineering at the University of`[UTN.BA](https://aulasvirtuales.frba.utn.edu.ar/)
+- :school:  I'm a second-year student in the Faculty of `Information Systems Engineering at the University of`[UTN.BA](https://aulasvirtuales.frba.utn.edu.ar/)
 - :technologist: Future Information Systems Engineer `Problem`.
 - :computer:  Always learning new things.
 - :student:Looking for opportunities and collaborations in the field of data science.
