@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siles.ldk/)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Active+Learner+%2F+Researcher;Learning+new+things+everyday;Open+Source+Contributor;Lover+of+Clean+and+Efficient+Code"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Active+Learner+%2F+Researcher;Learning+new+things+everyday;Open+Source+Contributor;Lover+of+Clean+and+Efficient+Code"></a>
 </p>
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
