@@ -1,7 +1,7 @@
 
 ## Hey there 👋, I'm [Lucas!](https://github.com/lucassoliz/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/lucas-siles](https://www.linkedin.com/in/lucas-siles-128949292/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-siles-128949292/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siles.ldk/)
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-I’m passionate about technology and learning, currently on my way to becoming a Computer Systems Engineer at [UTN.BA]([https://aulasvirtuales.frba.utn.edu.ar/](https://frba.utn.edu.ar/)). My goal is to grow as a developer and analyst, contributing creative solutions to complex problems.
+I’m passionate about technology and learning, currently on my way to becoming an `Information Systems Engineer` at [UTN.BA](https://aulasvirtuales.frba.utn.edu.ar/). My goal is to grow as a `developer` and `analyst`, contributing creative solutions to complex problems.
 
 I’m driven by problem-solving and first-principles thinking, always guided by purpose and the challenge of finding new ways to approach things.
 
@@ -22,11 +22,18 @@ I see myself as an explorer of new technologies, a lifelong learner, and a probl
 
 Feel free to connect with me! Whether it’s to talk about projects, share ideas, or just hang out :P
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-`
-<div align="right">
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoliz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+<div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="100">
 </div>
+
+![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 ## Tech Stack  
 
@@ -49,13 +56,6 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 -  Exploring **TypeScript** and **React** for scalable web applications.
 -  Sharpening my skills in **algorithms**, **system design** and **system analysis**
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoliz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
@@ -66,13 +66,7 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-## ✨ Bonus Humor
-
-- "Debugging is like playing Jenga with your code: every change has the potential to bring it all crashing down."
-- "C is like coffee: pure, strong, and keeps you up all night fixing bugs."
-- "C++ is like C after taking a course in object-oriented programming and going to therapy."
-- "Haskell taught me that life can be pure… until you have to do I/O."
-- "Memory leaks? I don’t call them bugs; I call them 'persistence features'."
-- "If my problems were a stack frame, I’d already have a stack overflow."
-- "My life works like a stack: I keep pushing more tasks and never pop them off."
-- "Recursion is like an inside joke… so inside that it keeps telling itself."
+<h3 align="left"> Random Dev </h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
