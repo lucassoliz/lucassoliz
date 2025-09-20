@@ -12,8 +12,6 @@
 ### Glad to see you here!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassoliz&label=Profile%20views&color=0e75b6&style=flat" alt="lucassoliz" /> </p> 
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
-
 I’m passionate about technology and learning, currently on my way to becoming an `Information Systems Engineer` at [UTN.BA](https://aulasvirtuales.frba.utn.edu.ar/). My goal is to grow as a `developer` and `analyst`, contributing creative solutions to complex problems.
 
 I’m driven by problem-solving and first-principles thinking, always guided by purpose and the challenge of finding new ways to approach things.
