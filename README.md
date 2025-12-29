@@ -32,14 +32,24 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 </div>
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-
-## Tech Stack  
+## Tech Stack
 
 ### **Languages**:
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell%20-%2399399C.svg?style=for-the-badge&logo=haskell&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog%20-%2399390C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Wollok](https://img.shields.io/badge/Wollok%20-%9399390C.svg?style=for-the-badge&logo=c&logoColor=white)
+<p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Haskell%20-%2399399C.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
+  </a>
+  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prolog%20-%2399390C.svg?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/>
+  </a>
+  <a href="https://www.wollok.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wollok%20-%23939939.svg?style=for-the-badge&logo=java&logoColor=white" alt="Wollok"/>
+  </a>
+</p>
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -58,15 +68,17 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 <br />
 
 ### **Extras**:
+<p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  
-  ![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Markdown%20-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  </a>
+</p>
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
