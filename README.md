@@ -36,25 +36,25 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
 </p>
 
 **Logic & Functional**
 <p align="left">
-  <img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
-  <img src="https://img.shields.io/badge/Prolog-%2399390C.svg?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/>
-  <img src="https://img.shields.io/badge/Wollok-%23939939.svg?style=for-the-badge&logo=wollok&logoColor=white" alt="Wollok"/>
+  <a href="https://www.haskell.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/></a>
+  <a href="https://www.swi-prolog.org/pldoc/index.html" target="_blank"><img src="https://img.shields.io/badge/Prolog-%2399390C.svg?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/></a>
+  <a href="https://www.wollok.org/documentacion/conceptos/" target="_blank"><img src="https://img.shields.io/badge/Wollok-%23939939.svg?style=for-the-badge&logo=wollok&logoColor=white" alt="Wollok"/></a>
 </p>
 
 **Database & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
