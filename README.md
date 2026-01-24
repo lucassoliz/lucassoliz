@@ -57,6 +57,13 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 
+**Backend & Technologies**
+<p align="left">
+  <a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/></a>
+  <a href="https://jakarta.ee/" target="_blank"><img src="https://img.shields.io/badge/Jakarta_EE-001439?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE"/></a>
+</p>
+
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 ## Current Learning Goals
