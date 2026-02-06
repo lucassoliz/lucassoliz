@@ -16,7 +16,7 @@ I’m passionate about technology and learning, currently on my way to becoming 
 
 I’m driven by problem-solving and first-principles thinking, always guided by purpose and the challenge of finding new ways to approach things.
 
-I see myself as an explorer of new technologies, a lifelong learner, and a problem-solver at heart. When I’m not coding, I enjoy watching tech-related content on YouTube, which fuels my curiosity and inspires me to keep growing.
+I enjoy building REST APIs, designing layered architectures, and understanding how real systems work from database to deployment. I’m driven by problem-solving, clean code, and continuous learning.
 
 Feel free to connect with me! Whether it’s to talk about projects, share ideas, or just hang out :P
 
@@ -49,28 +49,33 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
   <a href="https://www.wollok.org/documentacion/conceptos/" target="_blank"><img src="https://img.shields.io/badge/Wollok-%23939939.svg?style=for-the-badge&logo=wollok&logoColor=white" alt="Wollok"/></a>
 </p>
 
-**Database & Tools**
+### Backend & Architecture
 <p align="left">
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-</p>
-
-**Backend & Technologies**
-<p align="left">
-  <a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/></a>
   <a href="https://spring.io/projects/spring-cloud" target="_blank"><img src="https://img.shields.io/badge/Spring_Cloud-white?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Cloud"/></a>
-  <a href="https://jakarta.ee/" target="_blank"><img src="https://img.shields.io/badge/Jakarta_EE-001439?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE"/></a>
+  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DTO_Pattern-blue?style=for-the-badge"/>
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 ## Current Learning Goals
--  Diving deeper into **Python** for data analysis and machine learning.
--  Exploring **TypeScript** and **React** for scalable web applications.
--  Sharpening my skills in **algorithms**, **system design** and **system analysis**
+
+- Deepening backend architecture with Spring Boot  
+- Improving REST API design  
+- Practicing Docker + deploy pipelines  
+- Exploring microservices with Spring Cloud  
+- Strengthening system analysis  
+- Advancing toward professional Java Backend Developer  
 
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
