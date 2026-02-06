@@ -52,7 +52,6 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 ### Backend & Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/></a>
   <a href="https://spring.io/projects/spring-cloud" target="_blank"><img src="https://img.shields.io/badge/Spring_Cloud-white?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Cloud"/></a>
   <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
