@@ -42,7 +42,7 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
 </p>
 
-**Logic & Functional**
+**Logic & Functional & POO**
 <p align="left">
   <a href="https://www.haskell.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/></a>
   <a href="https://www.swi-prolog.org/pldoc/index.html" target="_blank"><img src="https://img.shields.io/badge/Prolog-%2399390C.svg?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/></a>
@@ -53,6 +53,7 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <a href="https://spring.io/projects/spring-cloud" target="_blank"><img src="https://img.shields.io/badge/Spring_Cloud-white?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Cloud"/></a>
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DTO_Pattern-blue?style=for-the-badge"/>
