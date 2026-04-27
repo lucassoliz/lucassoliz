@@ -1,13 +1,36 @@
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  I'm <a href="https://github.com/lucassoliz/">Lucas!</a>
+</h1>
 
-## Hey there 👋, I'm [Lucas!](https://github.com/lucassoliz/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-siles/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siles.ldk/)
-
+<!-- ============================== SOCIAL BADGES ============================== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Active+Learner+%2F+Researcher;Learning+new+things+everyday;Open+Source+Contributor;Lover+of+Clean+and+Efficient+Code"></a>
+  <a href="https://www.linkedin.com/in/lucas-siles/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/siles.ldk/">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+ 
+  <a href="mailto:lucasg5plus@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+<!-- ============================== TYPING ANIMATION ============================== -->
+<p align="center">
+  <a href="https://github.com/lucassoliz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=620&height=70&lines=Systems+Engineering+Student;Java+%26+Spring+Boot+Developer;Active+Learner+%2F+Researcher;Open+Source+Contributor;Lover+of+Clean+%26+Efficient+Code" />
+  </a>
+</p>
+
+<!-- ============================== STATS BADGES ============================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucassoliz&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/lucassoliz?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/lucassoliz?label=Stars&style=for-the-badge&color=ffca28" alt="Stars" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
  
 ### Glad to see you here :P
