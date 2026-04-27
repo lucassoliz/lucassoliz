@@ -34,7 +34,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
  
 ### Glad to see you here :P
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassoliz&label=Profile%20views&color=0e75b6&style=flat" alt="lucassoliz" /> </p> 
 
 I’m passionate about technology and learning, currently on my way to becoming an `Information Systems Engineer` at [UTN.BA](https://aulasvirtuales.frba.utn.edu.ar/). My goal is to grow as a `developer` and `analyst`, contributing creative solutions to complex problems.
 
