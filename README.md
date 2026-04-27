@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Active+Learner+%2F+Researcher;Learning+new+things+everyday;Open+Source+Contributor;Lover+of+Clean+and+Efficient+Code"></a>
 </p>
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
 ### Glad to see you here!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassoliz&label=Profile%20views&color=0e75b6&style=flat" alt="lucassoliz" /> </p> 
 
@@ -31,42 +31,52 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="100">
 </div>
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
-**Languages**
+<details open>
+<summary><b>&nbsp;Languages</b></summary>
+<br/>
 <p align="left">
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css" />
 </p>
+</details>
 
-**Logic & Functional & POO**
+<details open>
+<summary><b>&nbsp;Logic / Functional / OOP</b></summary>
+<br/>
 <p align="left">
-  <a href="https://www.haskell.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/></a>
-  <a href="https://www.swi-prolog.org/pldoc/index.html" target="_blank"><img src="https://img.shields.io/badge/Prolog-%2399390C.svg?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/></a>
-  <a href="https://www.wollok.org/documentacion/conceptos/" target="_blank"><img src="https://img.shields.io/badge/Wollok-%23939939.svg?style=for-the-badge&logo=wollok&logoColor=white" alt="Wollok"/></a>
+  <a href="https://www.haskell.org/documentation/"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /></a>
+  <a href="https://www.swi-prolog.org/pldoc/index.html"><img src="https://img.shields.io/badge/Prolog-99390C?style=for-the-badge&logo=prolog&logoColor=white" /></a>
+  <a href="https://www.wollok.org/documentacion/conceptos/"><img src="https://img.shields.io/badge/Wollok-939939?style=for-the-badge&logo=wollok&logoColor=white" /></a>
 </p>
+</details>
 
-### Backend & Architecture
+<details open>
+<summary><b>&nbsp;Backend & Architecture</b></summary>
+<br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <a href="https://spring.io/projects/spring-cloud" target="_blank"><img src="https://img.shields.io/badge/Spring_Cloud-white?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Cloud"/></a>
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DTO_Pattern-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <a href="https://spring.io/projects/spring-cloud"><img src="https://img.shields.io/badge/Spring_Cloud-white?style=for-the-badge&logo=spring&logoColor=6DB33F" /></a>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DTO_Pattern-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
+</details>
 
-### DevOps & Tools
+<details open>
+<summary><b>&nbsp;DevOps, Databases & Tools</b></summary>
+<br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,postman,mysql,postgres" />
 </p>
+</details>
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
+
+
 
 ## Current Learning Goals
 
@@ -78,14 +88,14 @@ Feel free to connect with me! Whether it’s to talk about projects, share ideas
 - Advancing toward professional Java Backend Developer  
 
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
 
 ## 🐍 A Snake Eating My Contributions Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
 
 <h3 align="left"> Random Dev </h3>
 <p align="center">
